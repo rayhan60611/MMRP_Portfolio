@@ -1,0 +1,152 @@
+.bodyDiv {
+    margin: 0;
+    padding: 0;
+
+}
+
+.home {
+    height: 85vh;
+    /*background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../assets/bg3 (2).jpg");*/
+    background-image: url("../assets/2222.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Alata', sans-serif;
+    /*padding-top: 86px;*/
+    position: relative;
+
+}
+
+.home::before{
+position:absolute;
+    left:0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    z-index: 100;
+    background: rgba(13, 13, 13, 0.49);
+}
+.home > *{
+    z-index: 200;
+}
+
+.nameH1{
+    color: white;
+    /*position: absolute;*/
+    /*margin: auto;*/
+    /*bottom: 0;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*height: 120px;*/
+    /*font-size:45px !important;*/
+    font-weight: bolder;
+
+}
+
+.nameH3{
+    color: white;
+    /*position: absolute;*/
+    /*margin: auto;*/
+    /*bottom: 0;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*height: 1px;*/
+    /*font-size:28px !important;*/
+    font-weight: revert;
+
+}
+
+@media (max-width: 576px) {
+    .nameH1{
+        font-size: 1.7rem;
+    }
+    .nameH3{
+        font-size: 1.5rem;
+    }
+}
+@media (min-width: 576px) {
+    .nameH1{
+        font-size: 2.5rem;
+    }
+    .nameH3{
+        font-size: 1.7rem;
+    }
+}
+@media (min-width: 768px) {
+    .nameH1{
+        font-size: 3rem;
+    }
+    .nameH3{
+        font-size: 2rem;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    .link_button{
+        cursor: pointer;
+        background: red;
+        color: white;
+        transition: all 1s ease-in-out;
+        margin-top:6px ;
+    }
+}
+@media (min-width: 768px) {
+    .link_button{
+        cursor: pointer;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+        margin-top:6px ;
+    }
+
+}
+
+/*.link_button{*/
+/*background: red;*/
+/*    color: white;*/
+/*    transition: all 1s ease-in-out;*/
+/*}*/
+
+/*.link_button:hover{*/
+/*    background: white;*/
+/*    color: red;*/
+/*}*/
+
+.f24Light{
+    color: black;
+    font-size: 24px !important;
+    font-weight: 300;
+}
+
+.whoAmI{
+    margin-top: 18px;
+    font-family: 'Alata', sans-serif !important;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 2px;
+    border-top: 2px solid rgba(6, 3, 3, 0.61);
+    border-radius: 3px;
+}
+.progressBar{
+    justify-content: center;
+    font-family: 'Alata', sans-serif !important;
+}
+
+.ProgressBarHr{
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 1px;
+    border-top: .1px solid rgba(6, 3, 3, 0.61);
+}

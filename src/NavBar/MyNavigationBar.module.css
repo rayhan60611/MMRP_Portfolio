@@ -1,0 +1,17 @@
+.navBody{
+    /*font-family: 'Calistoga', cursive;*/
+    font-family: 'Alata', sans-serif;
+}
+
+.navGradient{
+    background:transparent linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.2)) !important;
+    /*border: red 1px solid;*/
+}
+
+
+@media(max-width: 576px) {
+    .navGradient{
+        background:#343a40 !important;
+        /*border: red 1px solid;*/
+    }
+}

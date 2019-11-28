@@ -1,0 +1,92 @@
+.ServicesDiv{
+
+    height: 35vh;
+    background-color: #343a40   ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Alata', sans-serif;
+    position: relative;
+
+}
+
+.ServicesDiv::before{
+    position:absolute;
+    left:0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    z-index: 100;
+    /*background: rgba(13, 13, 13, 0.49);*/
+}
+.ServicesDiv > *{
+    z-index: 200;
+}
+.nameH1{
+    color: white;
+    font-weight: bolder;
+    margin: 0;
+    font-size: 2rem;
+}
+
+@media (min-width: 576px) {
+    .nameH1 {
+        width: 18rem;
+        font-size: 2.5rem;
+    }
+}
+
+.serviceTitle{
+    color: black;
+    font-family: 'Alata', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+/*.serviceImage{*/
+/*    padding: 20px;*/
+/*    border: 4px solid;*/
+/*    border-image-source: linear-gradient(to right, red, orange);*/
+/*    border-image-slice: 1;*/
+/*    display: inline-block;*/
+/*    margin-bottom: 14px;*/
+/*}*/
+
+.serviceImage{
+    padding: 10px;
+    background: linear-gradient(to right, red, orange);
+    display: inline-block;
+    margin-bottom: 14px;
+    position: relative;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.serviceImage > img {
+    position: absolute;
+    z-index: 200;
+    display: block;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.serviceImage::after{
+    z-index: 100;
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    background: #D6D8DB;
+    border-radius: 50%;
+}
+.serviceText{
+    color: black;
+    font-family: 'Alata', sans-serif;
+    font-weight: lighter;
+}

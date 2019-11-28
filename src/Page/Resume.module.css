@@ -1,0 +1,96 @@
+
+
+
+.resumeImageTag{
+    padding: 1px;
+    background: linear-gradient(to right, #ffffff, #f7ffff);
+    display: inline-block;
+    position: relative;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.bodyDiv {
+    background: linear-gradient(to right, #158245, #238776, #238776, #238776,#158245);
+}
+
+.resumeNamePTag {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-weight: bolder;
+
+}
+
+.resumeNamePTag2 {
+    color: white;
+    font-family: 'Alata', sans-serif;
+
+}
+
+.resumePostPTag {
+     color: white;
+     font-family: 'Alata', sans-serif;
+     font-weight: bolder
+ }
+
+
+.resumeButtonTag {
+    font-family: 'Alata', sans-serif;
+}
+
+
+.childDivBody{
+
+
+}
+.childDiv1{
+    background: linear-gradient(to right, #158245, #238776, #238776, #238776,#158245);
+
+ }
+
+.childDiv2{
+    background: linear-gradient(to right, #158245, #238776, #238776, #238776,#158245);
+}
+
+.childDiv1 > span{
+    background: transparent;
+    border:1px solid white;
+    color: white;
+    white-space: normal!important;
+    line-height: 20px;
+    transition: all .4s ease-in-out;
+    /*animation: ex 1s forwards;*/
+
+}
+
+.childDiv1 > span:hover {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    transform: scale(1.05) rotate(360deg);
+}
+
+.tableTag{
+    color: white;
+    font-family: 'Alata', sans-serif;
+
+}
+
+/*@keyframes ex {*/
+/*    0% {*/
+/*        transform: translateY(-10px);*/
+/*    }*/
+
+/*    25% {*/
+/*        transform: translateY(0px);*/
+/*    }*/
+
+/*    75% {*/
+/*        transform: translateY(10px);*/
+/*    }*/
+
+/*    100% {*/
+/*        transform: translateY(0);*/
+/*    }*/
+/*}*/

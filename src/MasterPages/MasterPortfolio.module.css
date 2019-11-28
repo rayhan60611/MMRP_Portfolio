@@ -1,0 +1,15 @@
+.hrProtfolio{
+    margin-top:5px;
+    margin-bottom:5px;
+    height: 1rem;
+    width: 50%;
+    border-top:2px solid gray;
+}
+
+.h3Protfolio{
+    color: black;
+    font-family: 'Alata', sans-serif;
+    font-weight: bolder;
+
+
+}

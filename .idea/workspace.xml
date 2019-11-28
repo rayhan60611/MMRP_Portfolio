@@ -1,8 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9042b618-b21d-48cf-b4b0-c57ab58ddcdb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/MMRP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterCover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterCover.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterPortfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterPortfolio.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterService.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/UpperFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterPages/UpperFooter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NavBar/MyNavigationBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NavBar/MyNavigationBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/AboutUs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/NotFoundPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Portfolio.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/PrivacyPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Resume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Resume.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/Services.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/TermsOfUse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/TermsOfUse.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Router/MyRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/MMRP.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Rayhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bg3 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/coding.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/devices.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/film-editor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/github-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/hhh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/internet-of-things.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mokeyCoding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/one-year-of-react-native.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/web-development.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U4R0R77j6LsOqNxpPZsXhIrQcu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\portfolio\src\" />
+      <recent name="H:\portfolio\src\Page" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ReactJS All Projects\portfolio\src\assets" />
+      <recent name="H:\portfolio\public" />
+      <recent name="H:\portfolio\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9042b618-b21d-48cf-b4b0-c57ab58ddcdb" name="Default Changelist" comment="" />
+      <created>1574613657036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574613657036</updated>
+      <workItem from="1574613658305" duration="20260000" />
+      <workItem from="1574667535062" duration="206000" />
+      <workItem from="1574730385806" duration="24000" />
+      <workItem from="1574736253337" duration="20358000" />
+      <workItem from="1574760672367" duration="21427000" />
+      <workItem from="1574820488025" duration="24608000" />
+      <workItem from="1574911468639" duration="20886000" />
+      <workItem from="1574935014440" duration="6697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

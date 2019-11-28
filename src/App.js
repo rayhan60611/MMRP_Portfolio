@@ -1,25 +1,46 @@
 import React from 'react';
-import logo from './logo.svg';
+import {BrowserRouter} from "react-router-dom";
 import './App.css';
-
+import MyNavigationBar from "./NavBar/MyNavigationBar";
+import MyRouter from "./Router/MyRouter";
+import Footer from "./Page/Footer";
+import MasterServices from "./MasterPages/MasterServices";
+import MasterPortfolio from "./MasterPages/MasterPortfolio";
+import UpperFooter from "./MasterPages/UpperFooter";
+import MasterCover from "./MasterPages/MasterCover";
+import Particles from "react-particles-js";
+// const partiObj = {
+//     particles: {
+//         line_linked: {
+//             shadow: {
+//                 enable: true,
+//                 color: "#01d100",
+//                 blur: 1
+//             }
+//         },
+//         number:{
+//             value:150,
+//             density:{
+//                 enable:true,
+//                 value_area:900
+//
+//             }
+//         }
+//     }
+// }
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+          <MyNavigationBar/>
+          <MyRouter/>
+          <UpperFooter/>
+          <Footer/>
+      </BrowserRouter>
+        {/*<Particles params={partiObj}/>*/}
+
     </div>
+
   );
 }
 

@@ -1,0 +1,32 @@
+.hrProtfolio{
+    margin-top:5px;
+    margin-bottom:5px;
+    height: 1rem;
+    width: 50%;
+    border-top:2px solid gray;
+}
+
+.h3Protfolio{
+    color: black;
+    font-family: 'Alata', sans-serif;
+    font-weight: lighter;
+
+
+}
+
+.infoATag{
+     color: black;
+     font-family: 'Alata', sans-serif;
+
+ }
+
+.infoATag:hover{
+    color: rgba(229, 7, 0, 0.93);
+    font-family: 'Alata', sans-serif;
+}
+
+.addressPtag{
+    color: black;
+    font-family: 'Alata', sans-serif;
+
+}
