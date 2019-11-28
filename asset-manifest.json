@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd61b121.chunk.css",
+    "main.js": "/static/js/main.05edf60a.chunk.js",
+    "main.js.map": "/static/js/main.05edf60a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8896086d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8896086d.js.map",
+    "static/js/2.7b27f9e2.chunk.js": "/static/js/2.7b27f9e2.chunk.js",
+    "static/js/2.7b27f9e2.chunk.js.map": "/static/js/2.7b27f9e2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.039c010d8c2dae1126bd855d098d6de7.js": "/precache-manifest.039c010d8c2dae1126bd855d098d6de7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cd61b121.chunk.css.map": "/static/css/main.cd61b121.chunk.css.map",
+    "static/media/Home.module.css": "/static/media/2222.de534604.jpg",
+    "static/media/MMRP.svg": "/static/media/MMRP.58a162e3.svg",
+    "static/media/Rayhan.jpg": "/static/media/Rayhan.894b7874.jpg",
+    "static/media/coding.svg": "/static/media/coding.f7fd0e1c.svg",
+    "static/media/facebook.svg": "/static/media/facebook.c509a4c4.svg",
+    "static/media/film-editor.svg": "/static/media/film-editor.1bf2638c.svg",
+    "static/media/github-brands.svg": "/static/media/github-brands.ec5bc1b3.svg",
+    "static/media/internet-of-things.svg": "/static/media/internet-of-things.1f8534a1.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.14f7b675.svg",
+    "static/media/mokeyCoding.png": "/static/media/mokeyCoding.1aaa6462.png",
+    "static/media/youtube.svg": "/static/media/youtube.a51ab7ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8896086d.js",
+    "static/js/2.7b27f9e2.chunk.js",
+    "static/css/main.cd61b121.chunk.css",
+    "static/js/main.05edf60a.chunk.js"
+  ]
+}
