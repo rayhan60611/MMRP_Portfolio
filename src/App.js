@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter} from "react-router-dom";
+import {BrowserRouter, HashRouter} from "react-router-dom";
 import './App.css';
 import MyNavigationBar from "./NavBar/MyNavigationBar";
 import MyRouter from "./Router/MyRouter";
@@ -31,12 +31,12 @@ import Particles from "react-particles-js";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
           <MyNavigationBar/>
           <MyRouter/>
           <UpperFooter/>
           <Footer/>
-      </BrowserRouter>
+      </HashRouter>
         {/*<Particles params={partiObj}/>*/}
 
     </div>

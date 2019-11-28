@@ -13,7 +13,7 @@ class Home extends Component {
                     <h3 className={` ${classes.nameH3}`}>Web Developer</h3>
                     <Link to="/resume" className={`btn btn-outline-danger  ${classes.link_button}`}>Learn More</Link>
                 </div>
-                <div className={`container-fluid px-5  ${classes.whoAmI}`}>
+                <div className={`${classes.whoAmI}`}>
                     <div className={`m-4 shadow bg-gray rounded p-4`}>
                     <h3 className="f24Light text-center">Who I Am?</h3>
                     <hr/>

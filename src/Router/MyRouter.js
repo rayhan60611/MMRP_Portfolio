@@ -20,8 +20,8 @@ class MyRouter extends Component {
                     <Route path="/services" component={Services} />
                     <Route path="/privacy-policy" component={PrivacyPolicy} />
                     <Route path="/terms-of-use" component={TermsOfUse} />
+                    <Route exact path="/" component={Home} />
                     <Route  component={NotFoundPage}/>
-                    <Route path="/" component={Home} />
                 </Switch>
             </div>
         );
