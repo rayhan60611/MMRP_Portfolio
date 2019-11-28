@@ -14,14 +14,14 @@ class MyRouter extends Component {
         return (
             <div>
                 <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route exact path="/about" component={AboutUs} />
-                    <Route exact path="/portfolio" component={Portfolio} />
-                    <Route exact path="/resume" component={Resume} />
-                    <Route exact path="/services" component={Services} />
-                    <Route exact path="/privacy-policy" component={PrivacyPolicy} />
-                    <Route exact path="/terms-of-use" component={TermsOfUse} />
+                    <Route path="/about" component={AboutUs} />
+                    <Route path="/portfolio" component={Portfolio} />
+                    <Route path="/resume" component={Resume} />
+                    <Route path="/services" component={Services} />
+                    <Route path="/privacy-policy" component={PrivacyPolicy} />
+                    <Route path="/terms-of-use" component={TermsOfUse} />
                     <Route  component={NotFoundPage}/>
+                    <Route path="/" component={Home} />
                 </Switch>
             </div>
         );

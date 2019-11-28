@@ -77,20 +77,34 @@
 
 }
 
-/*@keyframes ex {*/
-/*    0% {*/
-/*        transform: translateY(-10px);*/
-/*    }*/
 
-/*    25% {*/
-/*        transform: translateY(0px);*/
-/*    }*/
+.NotFoundPage{
+    margin-top: 85px !important;
+    background: linear-gradient(to right, #158245, #238776, #238776, #238776,#158245);
+    color: #ff0700;
+    font-family: 'Alata', sans-serif;
+    height:500px ;
 
-/*    75% {*/
-/*        transform: translateY(10px);*/
-/*    }*/
+}
 
-/*    100% {*/
-/*        transform: translateY(0);*/
-/*    }*/
-/*}*/
+.NotFoundPage > h1 {
+    animation: ani 3s ease-in-out;
+}
+
+@keyframes ani {
+    0% {
+        transform: translateY(-100px);
+    }
+
+    25% {
+        transform: translateY(0px);
+    }
+
+    75% {
+        transform: translateY(200px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}

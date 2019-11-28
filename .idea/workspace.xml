@@ -2,62 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9042b618-b21d-48cf-b4b0-c57ab58ddcdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/MMRP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterCover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterCover.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterPortfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterPortfolio.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterService.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/MasterServices.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/UpperFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterPages/UpperFooter.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NavBar/MyNavigationBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NavBar/MyNavigationBar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/AboutUs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/AboutUs.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/NotFoundPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Portfolio.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/PrivacyPolicy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Resume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Resume.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Services.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/TermsOfUse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/TermsOfUse.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Router/MyRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/2222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/MMRP.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Rayhan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg3 (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/coding.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/devices.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/film-editor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/hhh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/internet-of-things.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/mokeyCoding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/one-year-of-react-native.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/web-development.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/youtube.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/NotFoundPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/NotFoundPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/Resume.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Resume.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Router/MyRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router/MyRouter.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +100,7 @@
       <workItem from="1574820488025" duration="24608000" />
       <workItem from="1574911468639" duration="20886000" />
       <workItem from="1574935014440" duration="6697000" />
+      <workItem from="1574959963550" duration="1735000" />
     </task>
     <servers />
   </component>
