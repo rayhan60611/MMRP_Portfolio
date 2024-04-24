@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://rayhan60611.github.io/mmrp_portfolio",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-particles-js": "^2.7.0",
